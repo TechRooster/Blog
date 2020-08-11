@@ -6,4 +6,4 @@ categories: geologia
 author: TechRooster
 ---
 
-Ahora puedo publicar cualquier cosa desde mi ordenador y lo primero que haré sera hablar sobre estas cosas
+En construcción.
