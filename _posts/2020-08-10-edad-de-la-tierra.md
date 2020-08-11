@@ -43,5 +43,3 @@ Brillante, pero un poco precipitado. Tal vez aquí yo no tenga evidencia para so
 Solo he leído el resumen, no quiero asentir a esta publicación avalada por toda la comunidad científica, quiero hacer algo que he visto muy poco entre la gente que me rodea en el plano académico. Someter a un escrutinio detallado cada una de las afirmaciones. Lo que me llena de suspicacias es el hecho de que solo estudiaron rocas del cañon del Diablo en Estados Unidos.
 
 Porque elegi este artículo?, porque a partir de ese momento se habló de la edad de la Tierra y ahora todos lo repiten como loros.
-YAAAAAAAAAAAAAAAAAA
-
