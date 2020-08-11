@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: post
 title: Abre los ojos
 permalink: /about/
 ---
