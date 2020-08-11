@@ -20,21 +20,23 @@ El titulo se llama: "Age of meteorites and the earth", traducido: Edad de los me
 
 En el resumen de su publicación, se lee lo siguiente:
 
-(Traducido)"Dentro de un error experimental, la edad de los meteoritos se puede determinar por medio de tres metodos radiométricos independientes entre sí".
+(Traducido)
+
+*"Dentro de un error experimental, la edad de los meteoritos se puede determinar por medio de tres metodos radiométricos independientes entre sí".*
 
 Perfecto, si queremos conocer la verdad del asunto habría que conocer la naturaleza de este error experimental, algunas veces el error de acuerdo a mi experiencia son de millones de años mas o menos, en este caso es irrelevante, ya que son detalles.
 
-"El método más preciso (Pb207/Pb208) nos da una edad de 4.55 +-0.07 billones de años".
+*"El método más preciso (Pb207/Pb208) nos da una edad de 4.55 +-0.07 billones de años".*
 
 Ok, para entender esto lo explicaré de un modo que cualquier lector lo pueda entender.
 Cuando se quiere averiguar la edad de una roca, o mejor dicho, el tiempo en el magma se solidificó y formó esta roca, se utilizan los métodos radiométricos. Que son estos métodos?
 Significa a la roca que quiero analizar, le corto un pedacito, lo muelo, lo diluyo y utilizando una maquina llamada espectrometro de masas, mido la cantidad de plomo presente. Si se cuanto plomo hay en esa muestra, entonces puedo saber aproximadamente cuanto hay en toda la roca.
 
-"Si asumimos algunas cosas, las cuales pueden ser aparentemente justificadas, uno puede definir la evolución isotópica para cualquier cuerpo meteorítico". 
+*"Si asumimos algunas cosas, las cuales pueden ser aparentemente justificadas, uno puede definir la evolución isotópica para cualquier cuerpo meteorítico".*
 
 Para ser franco, me joden las primeras palabras de este párrafo, porque?, porque no me dice nada. Me dice que hay supuestos, pero no dice cuales, dice que se puede justificar, pero no dice como. Por ahora, la duda lo favorece, pero si esto no se cumple en la realidad, entonces el método del plomo no funcionaria en los meteoritos, ya que existe una condicional que el mismo esta estableciendo.
 
-"Se conoce que el plomo de la Tierra reune los requerimientos para esta definición. Por tanto se cree que la edad de la Tierra es la misma que la de los meteoritos. Este es el tiempo desde que la Tierra alcanzó su masa actual"
+*"Se conoce que el plomo de la Tierra reune los requerimientos para esta definición. Por tanto se cree que la edad de la Tierra es la misma que la de los meteoritos. Este es el tiempo desde que la Tierra alcanzó su masa actual"*
 
 Brillante, pero un poco precipitado. Tal vez aquí yo no tenga evidencia para sostener mis dudas, pero tengo la libertad plena de dudar de cualquier afirmación.
 
