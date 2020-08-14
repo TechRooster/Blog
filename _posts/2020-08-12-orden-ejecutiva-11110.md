@@ -31,6 +31,8 @@ Artículo 1. Se enmienda adicionalmente la Orden Ejecutiva Nº10289 del 19 de se
 <span style="color:red">
 Fuente: [Executive Order 11110](http://home.hiwaay.net/~becraft/ExecOrder11110.pdf.)
 
+![certificados_de_plata](/_assets/images/certificado_plata.jpg)
+
 ¿EN QUE CONSISTÍA?
 Esta ley, le quitaba el poder a la Reserva Federal de Estados Unidos, de prestar dinero con intereses al gobierno, y le otorgaba el poder al Gobierno de emitir dinero sin tener que pedir prestado a la Reserva Federal. Kennedy dio a la Tesorería la facultad de emitir certificados de dinero respaldado por reservas de plata del Tesoro Nacional. 
 
