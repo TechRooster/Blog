@@ -26,12 +26,12 @@ Artículo 1. Se enmienda adicionalmente la Orden Ejecutiva Nº10289 del 19 de se
 (a) Añadiendo al final del párrafo 1 del mismo el siguiente subpárrafo (j):
 
 <span style="color:red">
-"(j) La autoridad conferida al Presidente por el párrafo (b) de la sección 43 de la Ley del 12 de mayo de 1933, según enmendada para emitir certificados de plata contra cualquier lingote de plata, plata o estándar dolares de plata en el Tesoro que no se mantienen para el rescate de ningún certificado de plata en circulación, para prescribir las denominaciones de dichos certificados de plata y para acuñar dólares de plata estándar y moneda de plata subsidiaria para su redención y ... 
+"(j) La autoridad conferida al Presidente por el párrafo (b) de la sección 43 de la Ley del 12 de mayo de 1933, según enmendada para emitir certificados de plata contra cualquier lingote de plata, plata o estándar dolares de plata en el Tesoro que no se mantienen para el rescate de ningún certificado de plata en circulación, para prescribir las denominaciones de dichos certificados de plata y para acuñar dólares de plata estándar y moneda de plata subsidiaria para su redención y .git.. 
 
 <span style="color:red">
-Fuente: [Executive Order 11110](http://home.hiwaay.net/~becraft/ExecOrder11110.pdf.)
+Fuente: [Executive Order 11110](http://home.hiwaay.net/~becraft/ExecOrder11110.pdf)
 
-![certificados_de_plata](/_assets/images/certificado_plata.jpg)
+![certificados_de_plata](/_assets/images/certificado_plata.jpg?raw=true)
 
 ¿EN QUE CONSISTÍA?
 Esta ley, le quitaba el poder a la Reserva Federal de Estados Unidos, de prestar dinero con intereses al gobierno, y le otorgaba el poder al Gobierno de emitir dinero sin tener que pedir prestado a la Reserva Federal. Kennedy dio a la Tesorería la facultad de emitir certificados de dinero respaldado por reservas de plata del Tesoro Nacional. 
