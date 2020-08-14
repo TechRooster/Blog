@@ -8,17 +8,31 @@ author: TechRooster
 
 Fue emitida por el presidente John Fitzgerald Kennedy, el 4 de junio de 1963.
 
-TEORÍAS
-**Jim Marrs**, en su libro: *Crossfire* presentó una teoría: Kennedy trataba de frenar el poder de la Reserva Federal, transfiriendo este al Departamento de Tesoro de los Estados Unidos mediante la sustitución de billetes de la Reserva Federal.
+Esta es una traducción modesta del documento que contiene el texto de la orden ejecutiva 11110:
 
-**Richard Belzer**, nombró como responsables del asesinato de JFK a estadounidenses *multimillonarios, agentes de poder y banqueros ... trabajando en conjunto con la CIA y otros agentes del gobierno"*
+<span style="color:red"> some *
+JUNIO, 7, 1963, 28 F.R. 5605
 
-¿EN QUE CONSISTÍA ESTA LEY?
-Le intentaba quitar a la Reserva Federal de Estados Unidos el poder de prestar dinero con intereses al gobierno, y dar el poder al Gobierno de emitir dinero sin tener que pedir prestado a la Reserva Federal, Kennedy dio a la Tesorería la facultad de emitir certificados de dinero respaldado por reservas de plata almacenadas en el Tesoro Nacional. 
+MODIFICACION DE LA ORDEN EJECUTIVA Nº10289, POR ENMIENDA EN RELACIÓN AL DESEMPEÑO DE DETERMINADAS FUNCIONES QUE AECTAN AL DEPARTAMENTO DE TESORERÍA
 
-¿CUALES ERAN LAS VENTAJAS DE ESTA LEY?
-Si hubiera ocurrido esto, se hubiera detenido la demanda de dinero de la Reserva Federal, ya que los billetes de Kennedy estaban respaldados por plata del Tesoro. Esta orden hubiera evitado que la deuda nacional llegase a sus niveles actuales.
+En virtud de la autoridad que me confiere la sección 361 del título 3 del Código de los Estados Unidos, se ordena de la siguiente manera:
 
-Esta orden dio al Congreso la oportunidad de crear su propio dinero respaldado por plata, libre de deuda y de interés.
+Artículo 1. Se enmienda adicionalmente la Orden Ejecutiva Nº10289 del 19 de setiembre de 1951.
 
-El 22 de noviembre de 1963, solo cinco meses después, John F. Kennedy fue asesinado.
+(a) Añadiendo al final del párrafo 1 del mismo el siguiente subpárrafo (j):
+
+"(j) La autoridad conferida al Presidente por el párrafo (b) de la sección 43 de la Ley del 12 de mayo de 1933, según enmendada para emitir certificados de plata contra cualquier lingote de plata, plata o estándar dolares de plata en el Tesoro que no se mantienen para el rescate de ningún certificado de plata en circulación, para prescribir las denominaciones de dichos certificados de plata y para acuñar dólares de plata estándar y moneda de plata subsidiaria para su redención y ... 
+* text</span>
+
+Fuente: [Executive Order 11110](http://home.hiwaay.net/~becraft/ExecOrder11110.pdf.)
+
+¿EN QUE CONSISTÍA?
+Esta ley, le quitaba el poder a la Reserva Federal de Estados Unidos, de prestar dinero con intereses al gobierno, y le otorgaba el poder al Gobierno de emitir dinero sin tener que pedir prestado a la Reserva Federal. Kennedy dio a la Tesorería la facultad de emitir certificados de dinero respaldado por reservas de plata del Tesoro Nacional. 
+
+¿CUALES ERAN LAS VENTAJAS?
+Se habría reducido la demanda de dinero de la Reserva Federal de Estados Unidos, se hubiera evitado que la deuda estadounidense llegase a sus niveles actuales.
+
+Solo cinco meses despues, el 22 de noviembre de 1963, John F. Kennedy fue asesinado.
+
+
+
